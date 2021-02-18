@@ -1,4 +1,4 @@
-Hello! I am a recent college graduate looking to break into the field of information tech and cybersecurity. Here is where I will showcase my Python skills.
+Hello! I am a recent college graduate looking to break into the field of information tech and cybersecurity. I will showcase my Python skills here.
 
 
 How to reach me thomasolmsted1@gmail.com
